@@ -9,14 +9,20 @@ Les étudiants qui veulent apprendre à utiliser LangGraph, les recruteurs et to
 1. **Clone le dépôt:**
 
    ```bash
-   git clone https://github.com/ibrahimasorydiallo1/RAG-Based-AI-Assistant-LangChain.git
-   cd RAG-Based-AI-Assistant-LangChain
+   git clone https://github.com/ibrahimasorydiallo1/my-first-langgraph-project.git
+   cd my-first-langgraph-project
    ```
 
 2. **Installe les dépendances:**
 
    ```bash
    pip install -r requirements.txt
+   ```
+
+2. Pour exécuter le projet dans votre terminal:**
+
+   ```bash
+   python main.py
    ```
 
    ## LICENSE
