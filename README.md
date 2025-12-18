@@ -1,4 +1,5 @@
-# my-first-langgraph-project
+# Mon premier projet LangGraph
+
 Ceci est mon premier projet LangGraph, un simple "bot" qui vous fait rire, pour apprendre comment définir des états (states), créer des noeuds (nodes), ajouter des options, et exécuter un workflow stateful (qui garde l'état). Pas de LLM — juste une logique de graphe claire et compréhensible pour assimiler les bases de LangGraph.
 
 ## Audience visée
