@@ -5,6 +5,10 @@ Ceci est mon premier projet LangGraph, un simple "bot" qui vous fait rire, pour 
 ## Audience visée
 Les étudiants qui veulent apprendre à utiliser LangGraph, les recruteurs et toute personne souhaitant se lancer dans l'IA.
 
+## Image du résultat
+
+
+
 ## Installation & Setup
 
 1. **Clone le dépôt:**
